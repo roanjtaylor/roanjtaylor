@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roanjtaylor
 - 👀 I’m interested in robotics, programming, and science.
-- 🌱 I’m currently learning how to efficiently structure my personal programming projects via GitHub + Git.
+- 🌱 I’m currently learning Java.
 - 📫 Contact me on Instagram @roanjtaylor.
 
 <!---
