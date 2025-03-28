@@ -1,8 +1,8 @@
 # About me
 
-- 🔭 I’m currently working on a football-related startup, and a safety-related contact app.
-- 🌱 I’m currently learning about my past, to optimise my present and make the most of the rest of my life.
-- ⚡ Fun fact: I dislike computer work as I am stationary and looking at a lit screen, but I love building cool, meaningful things... the game's the game.
-- 🍕 Massive fan of all good food- open to suggestions.
-- ⛰️ Until this point in my life has been entirely gathering data and testing various strategies and ways of life. I have relaxed, worked, played, and thought loads. Now I am confident to take my full control of my life, setting clear goals to achieve. My mindset understands life as a mountain range because it simplifies situations in my head so that I understant the best way solve issues.
-- 🧑‍🏫 As Prof. Keating says, "Carpe diem!"
+I am a robotics engineering student with proficiency in full-stack app development (desktop, mobile, and web).
+-
+
+- Currently improving my knowledge and skills with AI technology to produce smarter, innovative systems.
+- My top goals are to invent useful technology that people find beneficial, and launch excellent companies to make these a reality in society.
+- Always keen to connect with cool and enthusiastic people- so feel free to reach out: roanjtaylor@gmail.com.
