@@ -1,6 +1,6 @@
 # About me
 
-**Robotics Engineering Student. SportsTech SaaS Startup Founder.**
+**Robotics Engineering Student // SportsTech SaaS Startup Founder.**
 
 Cooking something real good.
 
