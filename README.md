@@ -1,7 +1,7 @@
 # About me
 
-**Robotics Engineering Student // SportsTech SaaS Startup Founder.**
+Mechatronics engineering.
 
-Cooking something real good.
+Software products.
 
-LinkedIn: @roan-taylor
+Currently on the journey to ramen profitability (to be free).
