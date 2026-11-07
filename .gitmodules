@@ -6,7 +6,7 @@
 	url = https://github.com/roanjtaylor/StudyBuddy.git
 [submodule "JARVIS"]
 	path = JARVIS
-	url = https://github.com/roanjtaylor/OpenClaw.git
+	url = https://github.com/roanjtaylor/JARVIS.git
 [submodule "MentalPerformance"]
 	path = MentalPerformance
 	url = https://github.com/roanjtaylor/MentalPerformance.git
