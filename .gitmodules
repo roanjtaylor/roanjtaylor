@@ -3,7 +3,7 @@
 	url = https://github.com/roanjtaylor/Squadova.git
 [submodule "StudyBuddy"]
 	path = StudyBuddy
-	url = https://github.com/roanjtaylor/studdybuddy.git
+	url = https://github.com/roanjtaylor/StudyBuddy.git
 [submodule "JARVIS"]
 	path = JARVIS
 	url = https://github.com/roanjtaylor/OpenClaw.git
@@ -12,16 +12,16 @@
 	url = https://github.com/roanjtaylor/MentalPerformance.git
 [submodule "Minecraft"]
 	path = Minecraft
-	url = https://github.com/roanjtaylor/mine.git
+	url = https://github.com/roanjtaylor/Minecraft.git
 [submodule "SheetMusic"]
 	path = SheetMusic
-	url = https://github.com/roanjtaylor/Sheet-Music-Tool.git
+	url = https://github.com/roanjtaylor/SheetMusic.git
 [submodule "internet-vids"]
 	path = internet-vids
 	url = https://github.com/roanjtaylor/internet-vids.git
 [submodule "IPhoneClaude"]
 	path = IPhoneClaude
-	url = https://github.com/roanjtaylor/IphoneClaude.git
+	url = https://github.com/roanjtaylor/IPhoneClaude.git
 [submodule "hf-space"]
 	path = hf-space
 	url = https://huggingface.co/spaces/roanjtaylor/ClaudeSubscription
