@@ -25,15 +25,6 @@
 [submodule "hf-space"]
 	path = hf-space
 	url = https://huggingface.co/spaces/roanjtaylor/ClaudeSubscription
-[submodule "z_legacy/CareerMapper"]
-	path = z_legacy/CareerMapper
-	url = https://github.com/roanjtaylor/career-mapper.git
-[submodule "z_legacy/Forze"]
-	path = z_legacy/Forze
-	url = https://github.com/roanjtaylor/Forze.git
-[submodule "z_legacy/VCgpt"]
-	path = z_legacy/VCgpt
-	url = https://github.com/roanjtaylor/VC-GPT.git
-[submodule "z_legacy/YCgrader"]
-	path = z_legacy/YCgrader
-	url = https://github.com/roanjtaylor/yc-idea-grader.git
+[submodule "z_legacy"]
+	path = z_legacy
+	url = https://github.com/roanjtaylor/z_legacy.git
