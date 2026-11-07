@@ -7,15 +7,6 @@
 [submodule "JARVIS"]
 	path = JARVIS
 	url = https://github.com/roanjtaylor/JARVIS.git
-[submodule "MentalPerformance"]
-	path = MentalPerformance
-	url = https://github.com/roanjtaylor/MentalPerformance.git
-[submodule "Minecraft"]
-	path = Minecraft
-	url = https://github.com/roanjtaylor/Minecraft.git
-[submodule "SheetMusic"]
-	path = SheetMusic
-	url = https://github.com/roanjtaylor/SheetMusic.git
 [submodule "internet-vids"]
 	path = internet-vids
 	url = https://github.com/roanjtaylor/internet-vids.git
