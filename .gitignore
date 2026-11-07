@@ -1,7 +1,3 @@
-# Folders that are not their own git repo yet - init them and add as submodules, or keep local
-Lisp/
-Viaweb/
-
 # OS / editor noise
 .DS_Store
 Thumbs.db
