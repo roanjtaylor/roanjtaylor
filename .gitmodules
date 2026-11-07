@@ -31,9 +31,6 @@
 [submodule "z_legacy/Forze"]
 	path = z_legacy/Forze
 	url = https://github.com/roanjtaylor/Forze.git
-[submodule "z_legacy/KickAbout"]
-	path = z_legacy/KickAbout
-	url = https://github.com/roanjtaylor/KickAbout.git
 [submodule "z_legacy/VCgpt"]
 	path = z_legacy/VCgpt
 	url = https://github.com/roanjtaylor/VC-GPT.git
