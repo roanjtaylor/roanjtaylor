@@ -1,0 +1,42 @@
+[submodule "Squadova"]
+	path = Squadova
+	url = https://github.com/roanjtaylor/Squadova.git
+[submodule "StudyBuddy"]
+	path = StudyBuddy
+	url = https://github.com/roanjtaylor/studdybuddy.git
+[submodule "JARVIS"]
+	path = JARVIS
+	url = https://github.com/roanjtaylor/OpenClaw.git
+[submodule "MentalPerformance"]
+	path = MentalPerformance
+	url = https://github.com/roanjtaylor/MentalPerformance.git
+[submodule "Minecraft"]
+	path = Minecraft
+	url = https://github.com/roanjtaylor/mine.git
+[submodule "SheetMusic"]
+	path = SheetMusic
+	url = https://github.com/roanjtaylor/Sheet-Music-Tool.git
+[submodule "internet-vids"]
+	path = internet-vids
+	url = https://github.com/roanjtaylor/internet-vids.git
+[submodule "IPhoneClaude"]
+	path = IPhoneClaude
+	url = https://github.com/roanjtaylor/IphoneClaude.git
+[submodule "hf-space"]
+	path = hf-space
+	url = https://huggingface.co/spaces/roanjtaylor/ClaudeSubscription
+[submodule "z_legacy/CareerMapper"]
+	path = z_legacy/CareerMapper
+	url = https://github.com/roanjtaylor/career-mapper.git
+[submodule "z_legacy/Forze"]
+	path = z_legacy/Forze
+	url = https://github.com/roanjtaylor/Forze.git
+[submodule "z_legacy/KickAbout"]
+	path = z_legacy/KickAbout
+	url = https://github.com/roanjtaylor/KickAbout.git
+[submodule "z_legacy/VCgpt"]
+	path = z_legacy/VCgpt
+	url = https://github.com/roanjtaylor/VC-GPT.git
+[submodule "z_legacy/YCgrader"]
+	path = z_legacy/YCgrader
+	url = https://github.com/roanjtaylor/yc-idea-grader.git

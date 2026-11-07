@@ -1,0 +1,12 @@
+# Folders that are not their own git repo yet - init them and add as submodules, or keep local
+Lisp/
+Viaweb/
+z_legacy/CrappyVenueSites/
+z_legacy/FlappyBird/
+z_legacy/KONIapp/
+z_legacy/SpaceInvader/
+z_legacy/TaggartsApp/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
