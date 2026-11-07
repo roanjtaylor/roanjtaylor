@@ -1,7 +1,7 @@
 # About me
 
-Mechatronics engineering.
+B2B SaaS product created Sept 2025 - Present, putting my software theory into practise.
 
-Software products.
+Now have caught the project bug to create amazing things.
 
-Currently marching towards being ramen profitable!
+Will see what I discover from energetically indulging my own curiosity.
