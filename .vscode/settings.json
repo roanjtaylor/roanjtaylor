@@ -1,3 +1,4 @@
 {
-    "git.repositoryScanMaxDepth": 2
+    "git.repositoryScanMaxDepth": 2,
+    "cmake.sourceDirectory": "C:/Users/roanj/RoanTaylor/z_legacy/26-Feb_SpaceInvader"
 }
