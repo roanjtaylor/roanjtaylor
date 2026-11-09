@@ -7,9 +7,9 @@
 [submodule "JARVIS"]
 	path = JARVIS
 	url = https://github.com/roanjtaylor/JARVIS.git
-[submodule "internet-vids"]
-	path = internet-vids
-	url = https://github.com/roanjtaylor/internet-vids.git
+[submodule "InternetVideos"]
+	path = InternetVideos
+	url = https://github.com/roanjtaylor/InternetVideos.git
 [submodule "IPhoneClaude"]
 	path = IPhoneClaude
 	url = https://github.com/roanjtaylor/IPhoneClaude.git
