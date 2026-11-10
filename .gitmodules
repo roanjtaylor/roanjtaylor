@@ -13,8 +13,8 @@
 [submodule "IPhoneClaude"]
 	path = IPhoneClaude
 	url = https://github.com/roanjtaylor/IPhoneClaude.git
-[submodule "hf-space"]
-	path = hf-space
+[submodule "z_hf-space"]
+	path = z_hf-space
 	url = https://huggingface.co/spaces/roanjtaylor/ClaudeSubscription
 [submodule "z_legacy"]
 	path = z_legacy
